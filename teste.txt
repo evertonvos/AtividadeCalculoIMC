@@ -1,6 +1,1 @@
-teste novo
-git remote add origin https://github.com/evertonvos/teste2.git
-git branch -M main
-git push -u origin master
-git add teste1.txt
-git commit -m “incluímos teste1.txt”
+este é o principal
