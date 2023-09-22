@@ -7,8 +7,19 @@ cd \teste\git2
 git clone https://github.com/evertonvos/exemplo
 
 cd \teste\git1\exemplo
-git pull https://github.com/evertonvos/exemplo
+git pull https://github.com/evertonvos/teste2
 
 
 git push https://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@github.com/evertonvos/teste2.git
-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
+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 mudancça
+  ]
+
+
+
+
+
+
+
+
+dlkjsdkjsdjodo
+kaodknoadinoaind
