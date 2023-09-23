@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 este é o principal
+=======
+Aleterado para o clone 
+>>>>>>> 97c4d8b15faf9c002335706ac829dd684ae1af55
