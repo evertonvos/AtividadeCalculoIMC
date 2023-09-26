@@ -27,13 +27,13 @@
            echo "<p> Seu IMC é: $IMC</p>";
             if ($IMC < 18.5){
                echo "<p>Sua Classificação é: Abaixo do peso</p>";
-          }else if ($IMC > 18.5 && $IMC < 24.9){
+          }else if ($IMC >= 18.5 && $IMC < 25){
            echo "Sua Classificação é: Peso normal</p>";
-          }else if ($IMC >= 25 && $IMC < 29.9){
+          }else if ($IMC >= 25 && $IMC < 30){
            echo "Sua Classificação é: Excesso de peso</p>";
-          }else if ($IMC >= 30 && $IMC < 34.9){
+          }else if ($IMC >= 30 && $IMC < 35){
            echo "Sua Classificação é: Obesidade Classe I</p>";
-          }else if ($IMC >= 35 && $IMC < 39.9){
+          }else if ($IMC >= 35 && $IMC < 40){
            echo "Sua Classificação é: Obesidade Classe II</p>";
           }else if ($IMC >= 40){
            echo "Sua Classificação é: Obesidade Mórbida</p>";
